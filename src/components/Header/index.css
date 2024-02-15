@@ -1,0 +1,10 @@
+.header-list {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-item {
+  list-style-type: none;
+  margin: 12px;
+}
